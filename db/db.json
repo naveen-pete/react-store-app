@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Data Structures and Algorithms ",
+      "description": "A new edition of the essential text and professional reference, with substantial new material on such topics as vEB trees, multithreaded algorithms, dynamic programming, and edge-based flow.",
+      "isAvailable": true,
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Premsons 608 Four Bearing Fidget Spinner",
+      "description": "Perfect toy for fidgeters.",
+      "isAvailable": true,
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "Bahubali DVD",
+      "description": "Raised in a remote tribal village, Shivudu grows up a carefree young man who relentlessly pursues his heart's desire.",
+      "isAvailable": false,
+      "price": 299
+    },
+    {
+      "id": 4,
+      "name": "Panasonic Full HD LED TV",
+      "description": "1920 x 1080 Full HD - Watch Blu-ray movies at their highest level of detail",
+      "isAvailable": true,
+      "price": 10500
+    },
+    {
+      "id": 5,
+      "name": "Storage Networks Explained 2 Edition",
+      "description": "Storage Networks Explained  covers the fundamental, techniques and functions of storage networks",
+      "isAvailable": false,
+      "price": 500
+    },
+    {
+      "id": 6,
+      "name": "Fort Collins Full Sleeve Jacket",
+      "description": "2 Welt Pocket at Front, 1 Welt Pocket Inside.",
+      "isAvailable": true,
+      "price": 1750
+    },
+    {
+      "name": "Dell Inspiron Core i3 6th Gen",
+      "description": "Value for money and good brand",
+      "price": 32990,
+      "isAvailable": true,
+      "id": 7
+    },
+    {
+      "name": "HP 15 Core i3 6th Gen",
+      "description": "Backlit Display\nIntel Core i3 Processor (6th Gen)",
+      "price": 31990,
+      "isAvailable": false,
+      "id": 8
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "John",
+      "phone": "9988776655",
+      "email": "john@abc.xyz",
+      "city": "Bengaluru"
+    },
+    {
+      "id": 2,
+      "name": "Asif",
+      "phone": "1122334455",
+      "email": "asif@abc.xyz",
+      "city": "Chennai"
+    },
+    {
+      "id": 3,
+      "name": "Hari",
+      "phone": "3355776644",
+      "email": "hari@abc.xyz",
+      "city": "Mumbai"
+    },
+    {
+      "id": 4,
+      "name": "Amar",
+      "phone": "2244668800",
+      "email": "amar@abc.xyz",
+      "city": "New Delhi"
+    }
+  ]
+}

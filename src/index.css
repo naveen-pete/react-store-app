@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.nav-active {
+  color: white;
+  background-color: #337ab7;
+}
+
+button {
+  margin: 1px;
+}
+
+a {
+  margin: 1px;
+}
+
+.not-found {
+  color: red;
+  font-weight: bold;
+}
